@@ -46,7 +46,7 @@
 
 .menu__wrapper {
     display: flex;
-    position: fixed;
+    position: absolute;
     justify-content: space-between;
     z-index: 2;
     gap: 1.5rem;
