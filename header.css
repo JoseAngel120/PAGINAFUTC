@@ -324,4 +324,8 @@
         stroke: var(--gray-menu-button);
         width: 1.5rem;
     }
+
+    .TituloProgramaA{
+        left: 100%;
+    }
 }
